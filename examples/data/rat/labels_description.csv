@@ -1,0 +1,74 @@
+﻿Region,Description
+MOp,Primary motor area
+MOs,Secondary motor area
+SSp,Primary somatosensory area
+SSs,Supplemental somatosensory area
+VISC,Visceral area
+ILA,Infralimbic area
+GU,Gustatory areas
+MOB,Main olfactory bulb
+AOB,Accessory olfactory bulb
+AON,Anterior olfactory nucleus
+TTd,Taenia tecta dorsal part
+TTv,Taenia tecta ventral part
+PIR,Piriform area
+TR,Postpiriform transition area
+PAA,Piriform-amygdalar area
+NLOT,Nucleus of the lateral olfactory tract
+COAa,Cortical amygdalar area anterior part
+COApl,Cortical amygdalar area posterior part lateral zone
+COApm,Cortical amygdalar area posterior part medial zone
+AUDp,Primary auditory area
+AUDd,Dorsal auditory areas
+AUDv,Ventral auditory areas
+VISlla,Anterior laterolateral visual area
+VISal,Anterolateral visual area
+VISam,Anteromedial visual area
+VISli,Intermediolateral visual area
+VISll,Laterolateral visual area
+VISlm,Mediolateral visual area
+VISpl,Posterolateral visual area
+VISp,Primary visual area
+VISrl,Rostrolateral visual area
+ACAd,Anterior cingulate area dorsal part
+ACAv,Anterior cingulate area ventral part
+PL,Prelimbic area
+ORBl,Orbital area lateral part
+ORBm,Orbital area medial part
+ORBv,Orbital area ventral part
+ORBvl,Orbital area ventrolateral part
+AId,Agranular insular area dorsal part
+AIv,Agranular insular area ventral part
+AIp,Agranular insular area posterior part
+RSPd,Retrosplenial area dorsal part
+RSPagl,Retrosplenial area lateral agranular part
+RSPv,Retrosplenial area ventral part
+RSPv-a,Retrosplenial area ventral part zone a
+RSPv-bc,Retrosplenial area ventral part zone b/c
+PTLp,Posterior parietal association areas
+TEa,Temporal association areas
+ECT,Ectorhinal area
+PERI,Perihinal area
+ENTl,"Entorhinal area, lateral part"
+ENTm,"Entorhinal area medial part, dorsal zone"
+ENTmv,"Entorhinal area medial part, ventral zone"
+PRE,Presubiculum
+POST,Postsubiculum
+PAR,Parasubiculum
+SUBd,Subiculum dorsal part
+SUBv,Subiculum ventral part
+CA1d,Field CA1
+CA1v,Field CA1
+CA2,Field CA2
+CA3,Field CA3
+DG,Dentate gyrus
+IG,Indusium griseum
+CLA,Claustrum
+EPd,Endopiriform nucleus dorsal part
+EPv,Endopiriform nucleus ventral part
+LA,Lateral nucleus of the amygdala
+BLAa,Basolateral nucleus of the amygdala anterior part
+BLAp,Basolateral nucleus of the amygdala posterior part
+BMAa,Basomedial nucleus of the amygdala anterior part
+BMAp,Basomedial nucleus of the amygdala posterior part
+PA,Posterior nucleus of the amygdala

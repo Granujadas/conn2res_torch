@@ -1,0 +1,243 @@
+Region,Description
+belt_sm,belt line of the sensorymotor system according to CP99
+PFCorb,Orbital prefrontal cortex
+14,Orbitofrontal area 14
+14O,Orbital part of area 14
+14r,Rostral area 14
+OFap,"Orbitofrontal cortex, agranular periallocortical"
+OFO,Orbitofrontal opercular area
+ProM#2,Pro motor area
+Gu,Gustatory cortex
+13,Orbitofrontal area 13
+13L,"Orbitofrontal area 13, lateral part"
+13M,"Orbitofrontal area 13, medial part"
+13a,Orbitofrontal area 13a
+32,Area 32
+FD#1,Prefrontal area FD
+10,Area 10
+10m,Medial area 10
+10v,Ventral area 10
+10d,Dorsal area 10
+10o,Orbital area 10
+12,Area 12
+12o,Orbital area 12
+12m,Medial area 12
+4712,Prefrontal area 47/12
+12r,Rostral area 12
+12l,Lateral area 12
+11,Area 11
+11l,Lateral area 11
+11m,Medial area 11
+9,Area 9
+L9,Lateral area 9
+M9,Medial area 9
+D9,dorsal area 9
+46,Cortical area 46
+46v,Ventral area 46
+46d,Dorsal area 46
+PS,Principal Sulcus
+46f,Area 46 (fundus of the principal sulcus)
+46vr,Area 46 (ventral rim of the principal sulcus)
+46dr,Area 46 (dorsal rim of the principal sulcus)
+9/46v,Cortical area 9/46v
+9/46d,Cortical area 9/46d
+8,Area 8
+FEF,Frontal eye field
+45,Cortical area 45
+45A,Cortical area 45A
+45B,Cortical area 45B
+8A,Area 8A
+8Ad,Dorsal portion of area 8A
+8Ac,Caudal area 8A
+8B,Area 8B
+6#1,Area 6
+6V,Area 6 (ventral part)
+F5,Agranular frontal area 5 (= rostral ventrolateral premotor area)
+PrCO,Precentral opercular area
+6Vb,Premotor area 6Vb
+6Va,Premotor area 6Va
+F4,Agranular frontal area 4 (= caudal ventrolateral premotor area)
+44,Cortical area 44
+6b-beta,Premotor area 6b-beta
+6D,Premotor area 6 (dorsal part)
+F7,Agranular frontal area 7 (= rostral dorsolateral premotor area)
+F2,Agranular frontal area 2 (= caudal dorsolateral premotor area)
+6M,Medial premotor area 6M
+F3,Agranular frontal area 3 (= SMA-proper)
+SMAr,SMA - rostral part
+SMAc,SMA - caudal part
+M2-HL,"Supplementary motor cortex M2, hindlimb area"
+M2-FL,"Supplementary motor cortex M2, forelimb area"
+F6,Agranular frontal area 6 (= pre-SMA)
+M1,Primary motor area
+M1-FL,"Primary motor cortex M1, forelimb area"
+MI-of,orofacial representation in MI
+4b,Motor area 4b
+4a,Motor area 4a
+M1-HL,"Primary motor cortex M1, hindlimb area"
+S1,Primary somatosensory cortex
+PC#1,Primary sensory area PC
+1#1,Area 1
+2#1,Area 2
+3#1,Area 3
+3b,Postcentral area 3b
+3a,Postcentral area 3a
+S2,Secondary somatosensory cortex
+SII-f,face representation in SII as defined in DLRPK03
+belt_s,belt line of the sensory system according to CP99
+PR#4,rostroventral parietal area as defined in DLRPK03
+7#1,Area 7
+PFop,Rostral parietal operculum
+PP,Posterior parietal area
+PGop,Caudal parietal operculum
+IPL,Inferior parietal lobule (lateral posterior cortex below the intraparietal sulcus)
+7a,Area 7a
+PG#1,Caudal inferior parietal lobule
+Opt,Occipitoparietal area
+7b,Area 7b
+PFG#1,Midpart of the inferior parietal lobule
+PF#1,Rostral inferior parietal lobule
+LIP,Lateral intraparietal area
+LIPe,Lateral intraparietal area (external part)
+LIPi,Lateral intraparietal area (internal part)
+VIP,Ventral intraparietal area
+PIP#1,Posterior intraparietal area
+AIP,Anterior intraparietal area
+MIP,Medial intraparietal area
+SPL,superior parietal lobule (posterior dorsomedial parietal cortex above the intraparietal sulcus)
+PEm,Rostral superior parietal lobule
+PEc#1,Caudal and medial superior parietal lobule
+PGm,"Parietal area PG, medial part"
+31,Area 31
+PECg,Parietal area PE (cingulate part)
+24,Anterior cingulate area 24
+24c,Area 24c (rostral part of the cingulate sulcus)
+24d,Area 24d (rostral part of the cingulate sulcus)
+24b,Area 24b
+24a,Area 24a
+23,Area 23
+23c,Area 23c
+23b,Area 23b
+TSA,Transitional sensory area
+23a,Area 23a
+26,Area 26
+29,Area 29
+CML,Caudomedial lobule
+29d,Area 29d
+29a-c,Cortical area 29a-c
+30,Retrosplenial area 30
+25,Area 25
+Ig#1,Granular insular cortex
+Ri#1,Retroinsular area
+IPro,Insular proisocortex
+Pi#1,Parainsular field/cortex
+Idg,Dysgranular insular cortex
+Ia#2,Agranular insula
+Ial,Lateral agranular insular cortex
+Iam,Medial agranular insular cortex
+Iapm,Posteromedial agranular insular cortex
+Iai,Intermediate agranula insular cortex
+TF,Temporal area TF
+TFM,Temporal area TF (medial part)
+TFL,Temporal area TF (lateral part)
+Per#1,Perirhinal cortex
+35,Area 35
+36,Area 36
+36c,Caudal part of area 36
+36r,Rostral part of area 36
+TG,Temporopolar area TG
+TPPro,Temporal proisocortex
+TPag,Agranular area of temporal polar cortex
+TPg,Granular area of temporal polar cortex
+TPproD,"*NO NAME AVAILABLE* [GB: assuming it is 'temporal proisocortex, dorsal part']"
+TPdgv,Ventral dysgranular area of temporal polar cortex
+TPdgd,Dorsal dysgranular area of temporal polar cortex
+36p,Cortical area 36p
+PHC,Parahippocampal cortex
+ENT,Entorhinal cortex
+EL,Lateral field of entorhinal cortex
+ELr,Lateral field (rostral part) of entorhinal cortex
+ELc,Lateral field (caudal part) of entorhinal cortex
+EI,Intermediate field of entorhinal cortex
+ER#1,Rostral field of entorhinal cortex
+28m,medial entorhinal cortex
+EO,Olfactory field of entorhinal cortex
+ECL,Caudal limiting field of entorhinal cortex
+EC#2,Caudal field of entorhinal cortex
+S#1,Subiculum
+Su#2,"Subiculum, uncal portion"
+Sb,"Subiculum, body portion"
+Pros.,prosubiculum
+PaS,Parasubiculum
+TH,Temporal area TH
+PrS,Presubiculum
+Hip,Hippocampus
+CA1,CA1 subfield of Ammon`s horn
+DG,dentate gyrus
+CA3,CA3 subfield of Ammons horn
+STG,superior temporal gyrus
+A1,Primary auditory cortex
+STPg,"Supratemporal cortex, granular"
+A2,Secondary auditory cortex
+Pa#2,Postauditory field
+ProK,auditory prokoniocortex
+paAc,Caudal auditory parakoniocortex
+paAlt,Lateral auditory parakoniocortex
+L#1,Lateral auditory field
+CL#4,cudal lateral auditory (belt)
+AL#4,anterior lateral auditory belt
+TA,Temporal area TA
+ST3,Superior temporal area 3
+ST2,Superior temporal area 2
+ST1,Superior temporal area 1
+Tpt,Temporoparietal cortex
+TE,Inferotemporal area TE
+20,Area 20
+AITv,Anterior inferotemporal area (ventral)
+CIT,Central inferotemporal area
+CITd,Central inferotemporal area (dorsal)
+CITv,Central inferotemporal area (ventral)
+21,Area 21
+AITd,Anterior inferotemporal area (dorsal)
+TEa#3,anterior part of area TE
+TEm,Cortical area TEm
+PIT,Posterior inferotemporal area
+PITd,Posterior inferotemporal area (dorsal)
+PITv,Posterior inferotemporal area (ventral)
+STS,Superior temporal sulcus
+STSd,"Superior temporal sulcus, dorsal"
+TPO,Temporal parietooccipital associated area in superior temporal sulcus
+TPOc,Temporoparietal asscociated area (caudal part)
+TPOi,Temporoparietal associated area (intermediate part)
+TPOr,Temporoparietal associated area (rostral part)
+TAa,Temporal area TAa
+PGa,Cortical area PGa
+IPa,Intraparietal sulcus associated area in the superior temporal sulcus
+OAa,Cortical area OAa
+MT,Middle temporal area
+MTp,Peripheral part of area MT
+FST,Floor of superior temporal sulcus
+MST,Medial superior temporal area
+MSTp,*NO NAME AVAILABLE* [GB: assuming it is 'medial superior temporal (posterior part)']
+MSTd,Medial superior temporal area (dorsal)
+OA,Extrastriate area OA
+V3A,Visual area 3A
+V3,Visual area 3
+V3d,Dorsal visual area 3
+V3v,Ventral visual area 3
+V4,Visual area 4
+V4t,V4 transitional area
+V4d,Visual area 4 (dorsal part)
+DLr,"dorsolateral visual cortex, rostral part"
+DLc,"dorsolateral visual cortex, caudal part"
+V4v,Visual area 4 (ventral part)
+VPP,Ventral posterior parietal area
+DI#1,dorsointermediate visual field
+PO#4,medial visual association area
+V6A,Visual area V6A
+V6,Visual area 6
+DP,Dorsal prelunate gyrus
+VOT,Ventral occipitotemporal area
+V1,Visual area 1
+ProSt,Prostriate cortex
+V2,Visual area 2

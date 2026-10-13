@@ -1,0 +1,70 @@
+
+============================================================
+Tamaño: (100, 100)
+============================================================
+CHECK_SYMMETRIC
+NumPy: 0.000034 s | Torch: 0.000206 s | Speedup: 0.17x
+MAKE_SYMMETRIC
+NumPy: 0.000025 s | Torch: 0.000031 s | Speedup: 0.80x
+CHECK_SQUARE
+NumPy: 0.000000 s | Torch: 0.000003 s | Speedup: 0.06x
+SPLIT
+NumPy: 0.000002 s | Torch: 0.000025 s | Speedup: 0.08x
+CONCAT
+NumPy: 0.000002 s | Torch: 0.000013 s | Speedup: 0.17x
+
+============================================================
+Tamaño: (500, 500)
+============================================================
+CHECK_SYMMETRIC
+NumPy: 0.000585 s | Torch: 0.000147 s | Speedup: 3.97x
+MAKE_SYMMETRIC
+NumPy: 0.000393 s | Torch: 0.000036 s | Speedup: 11.03x
+CHECK_SQUARE
+NumPy: 0.000000 s | Torch: 0.000003 s | Speedup: 0.03x
+SPLIT
+NumPy: 0.000002 s | Torch: 0.000025 s | Speedup: 0.08x
+CONCAT
+NumPy: 0.000023 s | Torch: 0.000014 s | Speedup: 1.69x
+
+============================================================
+Tamaño: (1000, 1000)
+============================================================
+CHECK_SYMMETRIC
+NumPy: 0.007403 s | Torch: 0.000308 s | Speedup: 24.04x
+MAKE_SYMMETRIC
+NumPy: 0.003864 s | Torch: 0.000092 s | Speedup: 41.84x
+CHECK_SQUARE
+NumPy: 0.000000 s | Torch: 0.000003 s | Speedup: 0.03x
+SPLIT
+NumPy: 0.000002 s | Torch: 0.000025 s | Speedup: 0.08x
+CONCAT
+NumPy: 0.000624 s | Torch: 0.000019 s | Speedup: 32.15x
+
+============================================================
+Tamaño: (5000, 5000)
+============================================================
+CHECK_SYMMETRIC
+NumPy: 0.628811 s | Torch: 0.010854 s | Speedup: 57.94x
+MAKE_SYMMETRIC
+NumPy: 0.205367 s | Torch: 0.003176 s | Speedup: 64.67x
+CHECK_SQUARE
+NumPy: 0.000000 s | Torch: 0.000003 s | Speedup: 0.03x
+SPLIT
+NumPy: 0.000002 s | Torch: 0.000026 s | Speedup: 0.07x
+CONCAT
+NumPy: 0.017838 s | Torch: 0.000895 s | Speedup: 19.94x
+
+============================================================
+Tamaño: (10000, 10000)
+============================================================
+CHECK_SYMMETRIC
+NumPy: 2.130478 s | Torch: 0.047089 s | Speedup: 45.24x
+MAKE_SYMMETRIC
+NumPy: 0.846137 s | Torch: 0.013386 s | Speedup: 63.21x
+CHECK_SQUARE
+NumPy: 0.000000 s | Torch: 0.000003 s | Speedup: 0.05x
+SPLIT
+NumPy: 0.000002 s | Torch: 0.000016 s | Speedup: 0.11x
+CONCAT
+NumPy: 0.068778 s | Torch: 0.004128 s | Speedup: 16.66x
